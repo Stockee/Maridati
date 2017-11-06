@@ -37,6 +37,9 @@
         "#daefff"
       ]
     },
+    "favicon": "@PROJECT_PATH@/assets/images/silvio-bluemli-frei-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
     "versionFirst": "4.3.5",
     "uniqCompNum": 23,
     "versionPublish": "4.3.5"
