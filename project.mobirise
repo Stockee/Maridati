@@ -41,7 +41,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "versionFirst": "4.3.5",
-    "uniqCompNum": 24,
+    "uniqCompNum": 25,
     "versionPublish": "4.3.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
